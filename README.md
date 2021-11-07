@@ -78,7 +78,7 @@ www.civilica.com<br>
 www.sid.ir
 
 مقالات انگلیسی
-<br>[arxiv.org]
+<br>www.arxiv.org
 
 کتابخانه ملی ایران، آمریکا و انگلیس
 <br>www.nlai.ir<br>
