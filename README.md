@@ -77,6 +77,9 @@ www.theses.org
 www.civilica.com<br>
 www.sid.ir
 
+مقالات انگلیسی
+arxiv.org
+
 کتابخانه ملی ایران، آمریکا و انگلیس
 <br>www.nlai.ir<br>
 www.loc.gov<br>
